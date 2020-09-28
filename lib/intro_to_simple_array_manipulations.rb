@@ -15,4 +15,5 @@ def pop_with_args(array)
 end
 
 def shift_with_args(array)
-  
+  @brands_removed = array.pop(2)
+end
