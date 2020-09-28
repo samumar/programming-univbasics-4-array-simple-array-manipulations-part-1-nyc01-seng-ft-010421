@@ -14,6 +14,9 @@ def pop_with_args(array)
   @small_dogs = array.pop(2)
 end
 
+def using_shift(array)
+  
+
 def shift_with_args(array)
   @brands_removed = array.shift(2)
 end
