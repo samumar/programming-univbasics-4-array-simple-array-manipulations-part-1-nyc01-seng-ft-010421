@@ -13,3 +13,6 @@ end
 def pop_with_args(array)
   @small_dogs = array.pop(2)
 end
+
+def shift_with_args(array)
+  
